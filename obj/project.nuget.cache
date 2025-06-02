@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8Honm+mUcKo=",
+  "success": true,
+  "projectFilePath": "D:\\OneDrive - VNU-HCMUS\\HCMUS\\HK6\\Đồ họa ứng dụng\\Project\\ImageBgRemover\\ImageBgRemover.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lqvq1\\.nuget\\packages\\aspose.imaging\\25.5.0\\aspose.imaging.25.5.0.nupkg.sha512",
+    "C:\\Users\\lqvq1\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\lqvq1\\.nuget\\packages\\system.text.encoding.codepages\\7.0.0\\system.text.encoding.codepages.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
