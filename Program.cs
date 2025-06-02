@@ -23,9 +23,7 @@ class Program
             case "2":
                 string templatesFolder = @"D:\OneDrive - VNU-HCMUS\HCMUS\HK6\Đồ họa ứng dụng\Project\ImageBgRemover\img\";
                 string imagePath = Path.Combine(templatesFolder, "couple.jpg");
-
                 GraphCutMaskingWithAssumedObject.Run(imagePath, templatesFolder);
-                //GraphCutMaskingWithAssumedObject.Run();
                 break;
 
             case "3":
